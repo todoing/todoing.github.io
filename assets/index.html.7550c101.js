@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper.cdc0426e.js";import{o,c as t,a as c}from"./app.b5235f3f.js";const n={};function r(_,a){return o(),t("div",null,[c(" <homePic/> ")])}const i=e(n,[["render",r],["__file","index.html.vue"]]);export{i as default};
